@@ -1,6 +1,6 @@
 # Triangle Test
 
-#### Epicodus Intro to Programming: JavaScript homework, 7.30.2018
+#### Epicodus JavaScript homework, 7.30.2018
 
 #### Abel Trotter
 
