@@ -1,10 +1,12 @@
-# Project Title
+# Triangle Test
 
-#### Epicodus Intro to Programming: Lesson, Date
+#### Epicodus Intro to Programming: JavaScript homework, 7.30.2018
 
-#### By Your Name Here
+#### Abel Trotter
 
 ## Description
+
+JavaScript exercise practicing unit tests with Jasmine and Karma.
 
 ## Setup on OSX
 
@@ -32,4 +34,4 @@
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2018 **Your Name Here**
+Copyright (c) 2018 **Abel Trotter**
